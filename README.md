@@ -12,4 +12,8 @@ El controlador es el intermediario entre la vista y el modelo, se encarga de rel
 
 Consideraciones:
 Instalar el customtkinter antes de ejecutar.
-Pip install customtkinter
+--->Pip install customtkinter<---
+
+Ejecutar el programa desde el archivo main, para apreciar la interfaz gráfica
+
+
